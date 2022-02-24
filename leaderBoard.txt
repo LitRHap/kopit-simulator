@@ -1,0 +1,9 @@
+amcool 0
+holden_macoc_family_patriarch 80
+place-holder1 0
+place-holder4 0
+place-holder5 0
+place-holder2 0
+place-holder3 0
+ye 1
+god 0
